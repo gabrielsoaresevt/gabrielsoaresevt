@@ -6,7 +6,7 @@
 
 - 🔥 Curso técnico em Análise e Desenvolvimento de Sistemas, pela ETEC Professor Basilides de Godoy
 
-- 🔭 Atuando como freelancer, em busca de uma vaga no mercado.
+- 🔭 Atuando como freelancer, em busca de uma vaga no mercado
 
 - 💬 Apaixonado por **JavaScript, HTML, CSS, MySQL, Node.JS**
 
@@ -26,8 +26,8 @@
 
 <br><br>
 
-## 📞 Contact
+## Contato
 
-<a href="https://www.linkedin.com/in/gabriel-soares-a971391b1/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gabrielsoaresevt-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+<div> 
+  <a href="https://www.linkedin.com/in/gabriel-soares-a971391b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
