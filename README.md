@@ -1,12 +1,14 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=152338&height=140&section=header"/>
+
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielsoaresevt/6044562a91762abe64472b29d36dec9f/raw/e390fc8e751712a95800d235937cc7149594d6dc/githubcard.svg"/>
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Gabriel S. Evangelista</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=28&center=false&vCenter=true&width=610&lines=Olá!+Meu+nome+é+Gabriel+S.+Evangelista;Conheça+um+pouco+da+minha+trajetória!;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsoaresevt&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Curso técnico em Análise e Desenvolvimento de Sistemas, pela ETEC Professor Basilides de Godoy
+- 📚 Curso técnico em Análise e Desenvolvimento de Sistemas, pela ETEC Professor Basilides de Godoy
 
-- 🔭 Atuando como freelancer, em busca de uma vaga no mercado
+- 🔥 Freelancer, em busca de uma vaga no mercado
 
 - 💬 Apaixonado por **JavaScript, HTML, CSS, MySQL, Node.JS**
 
@@ -14,7 +16,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tecnologias
+## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -31,3 +33,22 @@
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-soares-a971391b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielsoaresevt&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<!--
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresevt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=gabrielsoaresevt&theme=gotham&hide_border=true&area=true)
+
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=152338&height=140&section=footer"/>
