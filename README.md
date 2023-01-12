@@ -8,9 +8,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsoaresevt&color=yellow" alt="Profile views" /> </p> -->
 
-- 📚 Curso técnico em Análise e Desenvolvimento de Sistemas, pela ETEC Professor Basilides de Godoy
+- 📚 Técnico em Análise e Desenvolvimento de Sistemas, pela instituição ETEC Professor Basilides de Godoy
 
-- 🔥 Freelancer, em busca de uma vaga no mercado
+- 🔥 Trabalhando como Freelancer, em busca de uma vaga no mercado
 
 - 💬 Apaixonado por **JavaScript, HTML, CSS, MySQL, Node.JS**
 
