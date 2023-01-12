@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=152338&height=140&section=header"/>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielsoaresevt/6044562a91762abe64472b29d36dec9f/raw/e390fc8e751712a95800d235937cc7149594d6dc/githubcard.svg"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Gabriel+S.+Evangelista;Conheça+um+pouco+sobre+mim!;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=28&center=false&vCenter=true&width=610&lines=Olá!+Meu+nome+é+Gabriel+S.+Evangelista;Conheça+um+pouco+da+minha+trajetória!;Bem-vindo!+:%29)](https://git.io/typing-svg)
+<br>
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielsoaresevt/6044562a91762abe64472b29d36dec9f/raw/e390fc8e751712a95800d235937cc7149594d6dc/githubcard.svg"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsoaresevt&color=yellow" alt="Profile views" /> </p> -->
 
@@ -34,7 +36,7 @@
   <a href="https://www.linkedin.com/in/gabriel-soares-a971391b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielsoaresevt&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
