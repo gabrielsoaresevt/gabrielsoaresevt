@@ -16,7 +16,7 @@
 
 <!-- - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) --> 
 
-<br><br>
+<br><br><br>
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,14 +36,14 @@
   <a href="https://www.linkedin.com/in/gabriel-soares-a971391b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
-<div align="center">  
-  <img width="500em" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="500em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresevt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<p align="center">
+<img width="505em" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
+<img width="420em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresevt&layout=compact&theme=github_dark" alt="Gabriel Soares Evangelista's Most Languages"/>
+</p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielsoaresevt&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
