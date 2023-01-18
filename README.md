@@ -10,7 +10,7 @@
 
 - 📚 Técnico em Análise e Desenvolvimento de Sistemas, pela instituição ETEC Professor Basilides de Godoy
 
-- 🔥 Trabalhando como Freelancer, em busca de uma vaga no mercado
+- 🔥 Trabalhando como Freelancer
 
 - 💬 Apaixonado por **JavaScript, HTML, CSS, MySQL, Node.JS**
 
