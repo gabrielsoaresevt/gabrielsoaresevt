@@ -38,13 +38,13 @@
   <a href="https://www.linkedin.com/in/gabriel-soares-a971391b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p align="left">
-<img width="505em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
 </p>
 <p>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresevt&layout=compact&theme=github_dark" alt="Gabriel Soares Evangelista's Most Languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresevt&layout=compact&theme=github_dark" alt="Gabriel Soares Evangelista's Most Languages"/>
 </p>
 
 <br>
