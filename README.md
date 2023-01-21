@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Gabriel+S.+Evangelista;Conheça+um+pouco+sobre+mim!;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<br>
-
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielsoaresevt/6044562a91762abe64472b29d36dec9f/raw/e390fc8e751712a95800d235937cc7149594d6dc/githubcard.svg"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsoaresevt&color=yellow" alt="Profile views" /> </p> -->
@@ -14,9 +12,9 @@
 
 - 💬 Apaixonado por **JavaScript, HTML, CSS, MySQL, Node.JS**
 
-<!-- - 👨‍💻 More at [my-website.dev](https://my-website.dev) --> 
+<!-- - 👨‍💻 Veja mais em: [my-website.dev](https://my-website.dev) --> 
 
-<br><br><br>
+<br>
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,14 +25,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br><br>
-
 ## Studying
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br><br>
 
 ## Contact
 
@@ -54,11 +48,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielsoaresevt&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<!--
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=gabrielsoaresevt&theme=gotham&hide_border=true&area=true) 
-
--->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=152338&height=140&section=footer"/>
