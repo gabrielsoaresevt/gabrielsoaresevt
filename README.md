@@ -40,6 +40,9 @@
 
 <br><br>
 
+### 📈 GitHub Activity Graph:
+[![Gabriel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielsoaresevt&theme=github-compact)](https://github.com/gabrielsoaresevt/github-readme-activity-graph)
+
 <p align="left">
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
 </p>
