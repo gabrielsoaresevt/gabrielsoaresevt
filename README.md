@@ -12,7 +12,7 @@
 
 - 🔥 Trabalhando como Freelancer
 
-- 💬 Fascinado por **JavaScript, HTML, CSS, MySQL, Node.JS**
+- 💬 Fascinado por **HTML, CSS, SASS/SCSS JavaScript e Node.JS**
 
 <!-- - 👨‍💻 Veja mais em: [my-website.dev](https://my-website.dev) --> 
 
@@ -30,7 +30,6 @@
 ## Studying
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Contact
 
