@@ -49,7 +49,9 @@
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresevt&layout=compact&theme=github_dark" alt="Gabriel Soares Evangelista's Most Languages"/>
 </p>
 
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&&theme=dracula" alt="gabrielsoaresevt" width="60%" /></p> 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&&theme=dracula" alt="gabrielsoaresevt" width="450em"/>
+</p> 
 
 <br>
 
