@@ -12,7 +12,7 @@
 
 - 🔥 Trabalhando como Freelancer
 
-- 💬 Apaixonado por **JavaScript, HTML, CSS, MySQL, Node.JS**
+- 💬 Fascinado por **JavaScript, HTML, CSS, MySQL, Node.JS**
 
 <!-- - 👨‍💻 Veja mais em: [my-website.dev](https://my-website.dev) --> 
 
