@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&&theme=dracula" alt="gabrielsoaresevt" width="450em"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&&theme=dracula" alt="gabrielsoaresevt" height="200em"/>
 </p> 
 
 <br>
