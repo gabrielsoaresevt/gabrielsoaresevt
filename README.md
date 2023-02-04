@@ -53,8 +53,6 @@
  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&&theme=dracula" alt="gabrielsoaresevt" height="200em"/>
 </p> 
 
-<br>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielsoaresevt&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
