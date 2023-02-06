@@ -1,8 +1,6 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Gabriel+S.+Evangelista;Conheça+um+pouco+sobre+mim!;Bem-vindo!+:%29)](https://git.io/typing-svg)
-
-#
+<h1>Olá! Prazer, sou Gabriel S. Evangelista :wave::musical_keyboard::heart:</h1> 
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielsoaresevt/6044562a91762abe64472b29d36dec9f/raw/e390fc8e751712a95800d235937cc7149594d6dc/githubcard.svg"/>
 
