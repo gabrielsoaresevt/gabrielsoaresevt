@@ -2,8 +2,6 @@
 
 <h1>Olá! Prazer, sou Gabriel S. Evangelista :wave::musical_keyboard::heart:</h1> 
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielsoaresevt/6044562a91762abe64472b29d36dec9f/raw/e390fc8e751712a95800d235937cc7149594d6dc/githubcard.svg"/>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsoaresevt&color=yellow" alt="Profile views" /> </p> -->
 
 - 📚 Técnico em Análise e Desenvolvimento de Sistemas, pela instituição ETEC Professor Basilides de Godoy
