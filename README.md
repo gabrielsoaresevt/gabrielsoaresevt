@@ -4,15 +4,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsoaresevt&color=yellow" alt="Profile views" /> </p> -->
 
-- 📚 Técnico em Análise e Desenvolvimento de Sistemas, pela instituição ETEC Professor Basilides de Godoy
-
-- 🔥 Trabalhando como Freelancer
+- 📚 Técnico em Desenvolvimento de Sistemas, pela instituição ETEC Professor Basilides de Godoy
 
 - 💬 Fascinado por **HTML, CSS, SASS/SCSS JavaScript e Node.JS**
 
 <!-- - 👨‍💻 Veja mais em: [my-website.dev](https://my-website.dev) --> 
-
-<br>
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,8 +28,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-soares-a971391b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<br><br>
 
 ### 📈 GitHub Activity Graph:
 [![Gabriel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielsoaresevt&theme=github-compact)](https://github.com/gabrielsoaresevt/github-readme-activity-graph)
