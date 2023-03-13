@@ -29,20 +29,16 @@
   <a href="https://www.linkedin.com/in/gabriel-soares-a971391b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### 📈 GitHub Activity Graph:
-[![Gabriel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielsoaresevt&theme=github-compact)](https://github.com/gabrielsoaresevt/github-readme-activity-graph)
+<!-- ### 📈 GitHub Activity Graph:
+[![Gabriel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielsoaresevt&theme=github-compact)](https://github.com/gabrielsoaresevt/github-readme-activity-graph) -->
 
-<p align="left">
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
-</p>
-<p>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresevt&layout=compact&theme=github_dark" alt="Gabriel Soares Evangelista's Most Languages"/>
-</p>
+<br>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&hide=other,markdown,xml,text,gitconfig&theme=dracula" alt="gabrielsoaresevt" height="200em"/>
-</p> 
+<div align="left">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&hide=other,markdown,xml,text,gitconfig&theme=github_dark"   alt="gabrielsoaresevt"/>
+</div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielsoaresevt&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
