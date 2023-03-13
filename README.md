@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gabrielsoaresevt&label=Profile%20views&color=1572B6&style=for-the-badge" alt="gabrielsoaresevt" /> </p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=gabrielsoaresevt&label=Profile%20views&color=1572B6&style=for-the-badge" alt="gabrielsoaresevt" /></p>
 
 <h1>Olá! Prazer, sou Gabriel S. Evangelista :wave::musical_keyboard::heart:</h1> 
 
@@ -35,8 +35,8 @@
 <br>
 
 <div align="left">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&hide=other,markdown,xml,text,gitconfig&theme=github_dark"   alt="gabrielsoaresevt"/>
+  <img height="190em" width:"190em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
+  <img height="190em" width:"190em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&hide=other,markdown,xml,text,gitconfig&theme=github_dark"   alt="gabrielsoaresevt"/>
 </div>
 
 <!-- <p align="center">
