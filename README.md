@@ -35,8 +35,8 @@
 <br>
 
 <div align="left">
-  <img height="190em" width:"190em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
-  <img height="190em" width:"190em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&hide=other,markdown,xml,text,gitconfig&theme=github_dark"   alt="gabrielsoaresevt"/>
+  <img height="190em" width="190em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresevt&show_icons=true&theme=github_dark" alt="Gabriel Soares Evangelista's Github Stats"/>
+  <img height="190em" width="190em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=gabrielsoaresevt&layout=compact&hide=other,markdown,xml,text,gitconfig&theme=github_dark"   alt="gabrielsoaresevt"/>
 </div>
 
 <!-- <p align="center">
