@@ -6,6 +6,8 @@
 
 <img align="right" width="100px" src="https://user-images.githubusercontent.com/64991217/225378178-0e22b8c2-4a76-4272-a8e8-39e8847a1fd8.gif"/>
 
+- 😎 Cursando Bacharelado em Ciência da Computação na instituição de ensino UNINOVE
+
 - 📚 Técnico em Desenvolvimento de Sistemas, pela instituição ETEC Professor Basilides de Godoy
 
 - 💬 Fascinado por **HTML, CSS, SASS/SCSS, JavaScript e Node.JS**
