@@ -10,7 +10,7 @@
 
 - 📚 Técnico em Desenvolvimento de Sistemas, pela instituição ETEC Professor Basilides de Godoy
 
-- 💬 Fascinado por **HTML, CSS, SASS/SCSS, JavaScript e Node.JS**
+- 💬 Fascinado por **HTML, CSS, SASS/SCSS, JavaScript e React**
 
 <!-- ![cat-playing-piano-funny](https://user-images.githubusercontent.com/64991217/225378230-0d29b265-0cdc-4f4e-81c1-5e18db95a025.gif) -->
 
