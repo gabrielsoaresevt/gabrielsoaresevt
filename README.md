@@ -10,7 +10,7 @@
 
 - 📚 Técnico em Desenvolvimento de Sistemas, pela instituição ETEC Professor Basilides de Godoy
 
-- 💬 Fascinado por **HTML, CSS, SASS/SCSS, JavaScript e React**
+- 🔥 Estagiário em Engenharia de Dados na F1RST Digital Services
 
 <!-- ![cat-playing-piano-funny](https://user-images.githubusercontent.com/64991217/225378230-0d29b265-0cdc-4f4e-81c1-5e18db95a025.gif) -->
 
@@ -25,9 +25,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!--
+
 ## Studying
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+-->
 
 ## Contact
 
